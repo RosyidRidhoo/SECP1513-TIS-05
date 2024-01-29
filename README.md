@@ -1,11 +1,8 @@
 # HI, MUHAMMAD ROSYID RIDHO INDRIANTO
-<h2 align="left">Hello, I am Cheng Jia Yi!</h2>
+<h2 align="left">Hello, Muhammad Rosyid Ridho Indrianto!</h2>
 
 ###
 
-<div align="center">
-  <img height="200" src="https://github.com/cheng-jiayi/SECP1513-TIS/assets/148318417/40c56d16-e2ac-49b7-9acd-3e708c7ee62f"  />
-</div>
 
 ###
 
