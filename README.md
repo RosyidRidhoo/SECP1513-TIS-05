@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">This is my e-Portfolio, offering a concise display of my skills and projects. This e-portfolio also serves as an online representation of my growth and achievements.<br><br></p>
+<p align="left">This is my Assignment<br><br></p>
 
 ###
 
